@@ -8,12 +8,12 @@ A Cosmic JS Extension Starter
 #### extension.json file properties
 Key | Type | Description
 --- | --- | ---
-| title     | string | Function title
-| font_awesome_class      | string | Icon to display in the Bucket sidenav
-| image_url      | string | Image thumbnail
-| source_code_url      | string | Extension source code url
+| title     | String | Function title
+| font_awesome_class      | String | Icon to display in the Bucket sidenav
+| image_url      | String | Image thumbnail
+| source_code_url      | String | Extension source code url
 
-Example `function.json` file:
+Example `extension.json` file:
 ```json
 {
   "title": "Extension Starter",

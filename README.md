@@ -11,7 +11,7 @@ Key | Type | Description
 | title     | String | Function title
 | font_awesome_class      | String | Icon to display in the Bucket sidenav
 | image_url      | String | Image thumbnail
-| source_code_url      | String | Extension source code url
+| repo_url      | String | Extension source code url
 
 Example `extension.json` file:
 ```json
@@ -19,6 +19,6 @@ Example `extension.json` file:
   "title": "Extension Starter",
   "font_awesome_class": "fa-puzzle-piece",
   "image_url": "https://cosmicjs.com/images/marketing/logo-w-brand.jpg",
-  "source_code_url": "https://github.com/cosmicjs/extension-starter"
+  "repo_url": "https://github.com/cosmicjs/extension-starter"
 }
 ```

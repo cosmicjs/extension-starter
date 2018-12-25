@@ -2,5 +2,5 @@
   "title": "Extension Starter",
   "font_awesome_class": "fa-puzzle-piece",
   "image_url": "https://cosmicjs.com/images/marketing/logo-w-brand.jpg",
-  "source_code_url": "https://github.com/cosmicjs/extension-starter"
+  "repo_url": "https://github.com/cosmicjs/extension-starter"
 }

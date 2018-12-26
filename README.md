@@ -1,5 +1,5 @@
 # Extension Starter
-A Cosmic JS Extension Starter
+Basic Cosmic JS Extension Starter
 
 ### Installation
 1. Download the .zip file in this repo

@@ -1,5 +1,9 @@
 # Extension Starter
-Basic Cosmic JS Extension Starter
+Cosmic JS Extension Starter.
+
+### Links
+[Extension docs](https://cosmicjs.com/docs/extensions)
+[Extension examples](https://cosmicjs.com/extensions/)
 
 ### Installation
 1. Download the .zip file in this repo

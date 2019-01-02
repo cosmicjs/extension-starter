@@ -17,7 +17,7 @@ Example `extension.json` file:
 ```json
 {
   "title": "Extension Starter",
-  "font_awesome_class": "fa-puzzle-piece",
+  "font_awesome_class": "fa-rocket",
   "image_url": "https://cosmicjs.com/images/marketing/logo-w-brand.jpg",
   "repo_url": "https://github.com/cosmicjs/extension-starter"
 }

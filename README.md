@@ -36,7 +36,7 @@ Example `extension.json` file:
 }
 ```
 ### index.html file
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -17,7 +17,8 @@ In short, it's a [JAMstack app](https://jamstack.org). It can be a simple static
 1. Download the .zip file in this repo
 2. [Login to Cosmic JS](https://cosmicjs.com) and go to Your Bucket > Settings > Extensions > Add Extension
 
-#### extension.json file properties
+### Requirements
+### extension.json file
 Key | Type | Description
 --- | --- | ---
 | title     | String | Function title
@@ -33,4 +34,19 @@ Example `extension.json` file:
   "image_url": "https://cosmicjs.com/images/marketing/logo-w-brand.jpg",
   "repo_url": "https://github.com/cosmicjs/extension-starter"
 }
+```
+### index.html file
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Extension Starter</title>
+</head>
+<body>
+  <h1>Hello World! or whatever...</h1>
+</body>
+</html>
 ```

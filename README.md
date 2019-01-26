@@ -1,6 +1,12 @@
 <img src="https://cosmic-s3.imgix.net/70b26370-2012-11e9-8b75-9b9c29c68edc-main.jpg?w=1500" width="500" />
 
 # Cosmic JS Extension Starter
+Extend the Cosmic JS dashboard experience. Cosmic JS Extensions enable you to:
+- Create custom views in your Cosmic JS dashboard
+- Connect to third-party APIs
+
+### What is a Comsic JS Extension?
+In short, it's a [JAMstack app](https://jamstack.org). It can be a simple static website, or complex web app, using front end web technology.
 
 ### Links
 [Extension docs](https://cosmicjs.com/docs/extensions)

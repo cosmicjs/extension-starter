@@ -5,17 +5,21 @@ Extend the <a href="https://cosmicjs.com" target="_blank">Cosmic JS</a> dashboar
 - Create custom views in your Cosmic JS dashboard
 - Connect to third-party APIs
 
+
 ### What is a Comsic JS Extension?
 In short, it's a [JAMstack app](https://jamstack.org). It can be a simple static website, or complex web app, using front end web technology.
+
 
 ### Links
 [Extension docs](https://cosmicjs.com/docs/extensions)
 
 [Extension examples](https://cosmicjs.com/extensions/)
 
+
 ### Installation
 1. Download the .zip file in this repo
 2. [Login to Cosmic JS](https://cosmicjs.com) and go to Your Bucket > Settings > Extensions > Add Extension
+
 
 ### Required files
 #### extension.json

@@ -1,4 +1,4 @@
-![Cosmic JS](https://cosmic-s3.imgix.net/70b26370-2012-11e9-8b75-9b9c29c68edc-main.jpg)
+<img src="https://cosmic-s3.imgix.net/70b26370-2012-11e9-8b75-9b9c29c68edc-main.jpg?w=1500" width="500" />
 # Extension Starter
 Cosmic JS Extension Starter.
 

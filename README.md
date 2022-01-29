@@ -1,8 +1,8 @@
-<a href="https://cosmicjs.com" target="_blank"><img src="https://cosmic-s3.imgix.net/70b26370-2012-11e9-8b75-9b9c29c68edc-main.jpg?w=1500" width="500" /></a>
+<a href="https://www.cosmicjs.com" target="_blank"><img src="https://cdn.cosmicjs.com/3cf62ab0-8e13-11ea-9b8f-cd0254a8c979-cosmic-dark.svg" width="500" /></a>
 
-# Cosmic JS Extension Starter
-Extend the <a href="https://cosmicjs.com" target="_blank">Cosmic JS</a> dashboard experience. Cosmic JS Extensions enable you to:
-- Create custom views in your Cosmic JS dashboard
+# Cosmic Extension Starter
+Extend the <a href="https://cosmicjs.com" target="_blank">Cosmic</a> dashboard experience. Cosmic Extensions enable you to:
+- Create custom views in your Cosmic dashboard
 - Connect to third-party APIs
 
 
@@ -18,7 +18,7 @@ In short, it's a [JAMstack app](https://jamstack.org). It can be a simple static
 
 ### Installation
 1. Download the .zip file in this repo
-2. [Login to Cosmic JS](https://cosmicjs.com) and go to Your Bucket > Settings > Extensions > Add Extension
+2. [Login to Cosmic](https://cosmicjs.com) and go to Your Bucket > Settings > Extensions > Add Extension
 
 
 ### Required files
